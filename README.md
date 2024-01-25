@@ -1,2 +1,4 @@
 # I am Kaan.
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kaanx0&show_icons=true)](https://github.com/Kaanx0/github-readme-stats&show_icons=true)
+<img alt = "my stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Kaanx0"/>
+
+<img alt = "top langs" align="left" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaanx0"/>
